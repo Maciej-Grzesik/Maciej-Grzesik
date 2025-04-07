@@ -11,9 +11,17 @@ I'm currently working on developing medical-grade software for the classificatio
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Maciej-Grzesik&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Maciej-Grzesik&theme=onedark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciej-Grzesik&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Maciej-Grzesik&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Maciej-Grzesik&theme=onedark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciej-Grzesik&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Maciej-Grzesik&icon=0&color=0" />
+  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
