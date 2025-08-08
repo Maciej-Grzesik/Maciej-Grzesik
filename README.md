@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing medical-grade software for the classification of patients diagnosed with breast cancer.<br><br>I'm also a biomedical engineering student specialising in biomedical informatics. For my engineering thesis, I'm creating a mobile application that reads sign language via camera and outputs real-time translation in text.
+I'm currently working on developing medical-grade software for the classification of patients diagnosed with breast cancer.
 
 
 ## 🌐 Socials:
